@@ -1,4 +1,4 @@
-:: Tracert with txt
+:: Tracert
 
 @echo off
 title Network Tracer
