@@ -1,0 +1,3 @@
+:: Stop Mode after 30 seconds 
+
+shutdown -t 30 -s -f

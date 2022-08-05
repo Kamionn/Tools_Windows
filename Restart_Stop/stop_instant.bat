@@ -1,0 +1,3 @@
+:: Stop
+
+shutdown -s -f

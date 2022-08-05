@@ -1,0 +1,3 @@
+:: Restart 
+
+shutdown -r
