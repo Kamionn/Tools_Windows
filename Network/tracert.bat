@@ -6,3 +6,6 @@ Set /p Host= Please Enter Hostname or IP Address:
 if defined Host (
    powershell -Command tracert -d %Host% 
 )
+
+pause
+exit /b 0
