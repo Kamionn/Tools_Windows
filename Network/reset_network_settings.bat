@@ -7,5 +7,6 @@ ipconfig /flushdns >nul 2>&1
 netsh int ipv4 reset >nul 2>&1
 netsh int ipv6 reset >nul 2>&1
 netsh winsock reset >nul 2>&1
+
 pause
 exit /b 0
